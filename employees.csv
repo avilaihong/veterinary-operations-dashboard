@@ -1,0 +1,301 @@
+EmployeeID,ClinicID,EmployeeName,Role,Specialty,HireDate,EmploymentStatus,FTE,HourlyRate,AnnualSalary
+EMP0001,CL001,Noah Sanchez,Veterinary Technician,,2019-02-10,Active,1.0,19.16,
+EMP0002,CL001,Audrey Brown,Practice Manager,,2023-03-24,Active,0.6,31.2,82500
+EMP0003,CL001,Camila Thomas,Practice Manager,,2015-02-25,Active,0.8,20.77,75000
+EMP0004,CL001,Emma Campbell,Veterinary Technician,,2017-09-12,Active,0.8,30.75,
+EMP0005,CL001,Luna Lewis,Veterinary Technician,,2016-08-23,Active,1.0,27.45,
+EMP0006,CL001,Jack Brown,Veterinary Technician,,2021-07-07,Active,1.0,30.35,
+EMP0007,CL001,Emily White,Veterinarian,Internal Medicine,2020-11-18,Active,1.0,,117500
+EMP0008,CL001,Nick Brown,Veterinarian,Internal Medicine,2019-12-27,Active,1.0,,95000
+EMP0009,CL001,Sophia Moore,Veterinary Technician,,2018-10-20,Active,1.0,28.63,
+EMP0010,CL001,Mateo Green,Veterinarian,General Practice,2022-03-15,Active,1.0,,137500
+EMP0011,CL001,Lucas Green,Veterinary Assistant,,2017-07-07,Active,1.0,22.42,
+EMP0012,CL001,Megan Hernandez,Veterinary Technician,,2020-05-31,Active,0.6,25.56,
+EMP0013,CL001,Ashley King,Veterinary Technician,,2015-08-03,Active,0.8,22.87,
+EMP0014,CL001,Rachel Baker,Veterinarian,General Practice,2023-07-24,Active,1.0,,110000
+EMP0015,CL001,Evelyn White,Veterinarian,General Practice,2016-08-09,Active,1.0,,97500
+EMP0016,CL001,Robert Rodriguez,Veterinarian,Internal Medicine,2015-06-05,Active,1.0,,115000
+EMP0017,CL001,Sophia Allen,Veterinary Assistant,,2021-03-19,Active,0.8,18.72,
+EMP0018,CL001,Emma Robinson,Practice Manager,,2020-03-28,Active,0.6,25.62,75000
+EMP0019,CL001,Ashley Torres,Veterinarian,Internal Medicine,2018-03-25,Active,1.0,,127500
+EMP0020,CL001,Luna Torres,Veterinarian,Emergency,2015-08-23,Active,1.0,,112500
+EMP0021,CL001,Kevin Davis,Veterinarian,Internal Medicine,2014-12-12,Active,1.0,,95000
+EMP0022,CL001,Emma Anderson,Client Service Representative,,2016-04-11,Active,1.0,27.62,
+EMP0023,CL001,Elijah Gonzalez,Veterinary Technician,,2019-04-08,Active,0.8,32.7,
+EMP0024,CL001,Ella Martinez,Veterinary Assistant,,2018-10-24,Active,1.0,21.94,
+EMP0025,CL001,Sofia Lewis,Veterinary Technician,,2018-07-16,Active,1.0,25.62,
+EMP0026,CL001,Sofia Lopez,Veterinarian,Emergency,2020-03-09,Active,1.0,,125000
+EMP0027,CL001,Emily Wilson,Veterinary Assistant,,2019-09-02,Active,0.8,18.93,
+EMP0028,CL001,Olivia Gonzalez,Veterinary Technician,,2021-01-16,Active,1.0,29.63,
+EMP0029,CL001,Jackson Brown,Veterinarian,Internal Medicine,2014-04-29,Active,1.0,,105000
+EMP0030,CL002,Emily Davis,Kennel Assistant,,2021-01-04,Active,1.0,24.27,
+EMP0031,CL002,Chloe Clark,Veterinarian,Surgery,2016-10-24,Active,0.8,,145000
+EMP0032,CL002,Henry Hill,Veterinarian,Internal Medicine,2019-12-07,Active,0.8,,135000
+EMP0033,CL002,Jackson Martin,Veterinarian,Surgery,2014-11-29,Active,0.8,,140000
+EMP0034,CL002,Mason Hernandez,Veterinarian,General Practice,2015-01-01,Active,0.8,,145000
+EMP0035,CL002,Kevin Baker,Veterinarian,General Practice,2018-09-16,Active,1.0,,110000
+EMP0036,CL002,Noah Garcia,Client Service Representative,,2018-09-30,Active,1.0,18.27,
+EMP0037,CL002,Emma Torres,Veterinarian,Emergency,2016-01-23,Active,0.8,,132500
+EMP0038,CL002,Liam Wright,Client Service Representative,,2022-02-15,Active,1.0,28.48,
+EMP0039,CL002,Benjamin Moore,Veterinary Assistant,,2022-10-08,Active,1.0,21.02,
+EMP0040,CL002,Sofia Mitchell,Veterinary Technician,,2023-03-06,Active,0.6,32.22,
+EMP0041,CL002,Jessica Torres,Veterinarian,General Practice,2021-11-19,Active,1.0,,165000
+EMP0042,CL002,Lucas Torres,Veterinary Technician,,2018-01-28,Active,1.0,19.34,
+EMP0043,CL002,Evelyn Torres,Veterinary Technician,,2019-08-20,Active,0.6,20.06,
+EMP0044,CL002,Emma Baker,Veterinary Assistant,,2018-10-05,Active,0.8,23.0,
+EMP0045,CL002,Amelia Sanchez,Veterinarian,Internal Medicine,2019-09-28,Active,1.0,,167500
+EMP0046,CL002,Rachel Williams,Veterinary Technician,,2019-01-22,Active,0.8,27.83,
+EMP0047,CL002,Isabella Hall,Veterinary Assistant,,2023-01-31,Active,1.0,28.98,
+EMP0048,CL002,Emily Young,Kennel Assistant,,2016-12-17,Active,1.0,19.56,
+EMP0049,CL002,Jack Clark,Client Service Representative,,2023-09-05,Active,0.6,26.68,
+EMP0050,CL002,Charlotte Allen,Practice Manager,,2017-07-07,Active,1.0,23.31,87500
+EMP0051,CL003,Ella Lee,Practice Manager,,2019-12-01,Active,1.0,24.22,77500
+EMP0052,CL003,Michael Walker,Veterinary Technician,,2019-10-26,Active,1.0,19.56,
+EMP0053,CL003,Emily Gonzalez,Kennel Assistant,,2023-03-27,Active,0.6,28.25,
+EMP0054,CL003,Liam Nelson,Veterinarian,Internal Medicine,2021-08-17,Active,1.0,,102500
+EMP0055,CL003,Olivia Walker,Veterinary Assistant,,2017-11-28,Active,0.8,24.15,
+EMP0056,CL003,Mateo Thomas,Client Service Representative,,2019-11-24,Active,1.0,22.81,
+EMP0057,CL003,Chloe Miller,Veterinarian,Dermatology,2017-04-14,Active,0.8,,162500
+EMP0058,CL003,Sarah White,Veterinary Assistant,,2022-10-19,Active,0.6,22.86,
+EMP0059,CL003,Jackson Hill,Client Service Representative,,2021-07-04,Active,1.0,23.81,
+EMP0060,CL003,Ava Garcia,Veterinarian,Internal Medicine,2018-09-25,Active,1.0,,175000
+EMP0061,CL003,Evelyn Nelson,Kennel Assistant,,2022-06-16,Active,0.6,18.44,
+EMP0062,CL003,Mateo Miller,Veterinarian,Dermatology,2022-10-24,Active,1.0,,120000
+EMP0063,CL003,James Scott,Veterinary Technician,,2023-06-09,Active,1.0,32.03,
+EMP0064,CL003,Camila Vilaihong,Veterinary Technician,,2014-09-30,Active,1.0,27.64,
+EMP0065,CL003,Lauren Jackson,Veterinarian,Internal Medicine,2017-05-21,Active,1.0,,150000
+EMP0066,CL003,Lucas Torres,Client Service Representative,,2019-02-08,Active,1.0,32.76,
+EMP0067,CL003,Liam Torres,Practice Manager,,2023-09-07,Active,0.8,19.64,77500
+EMP0068,CL003,Camila Green,Veterinarian,Dermatology,2021-09-05,Active,1.0,,95000
+EMP0069,CL003,Liam Anderson,Veterinary Assistant,,2016-07-19,Active,1.0,27.28,
+EMP0070,CL003,Benjamin Brown,Veterinarian,General Practice,2015-12-15,Active,1.0,,142500
+EMP0071,CL003,Jackson Scott,Kennel Assistant,,2021-03-10,Active,1.0,29.53,
+EMP0072,CL003,Sarah Jones,Veterinarian,General Practice,2019-04-16,Active,0.8,,127500
+EMP0073,CL003,Sofia Flores,Veterinarian,Internal Medicine,2019-02-17,Active,0.8,,177500
+EMP0074,CL003,Sarah Rivera,Veterinary Technician,,2021-10-12,Active,1.0,26.51,
+EMP0075,CL003,Jason Sanchez,Veterinarian,Emergency,2023-01-13,Active,0.8,,152500
+EMP0076,CL004,Olivia Brown,Client Service Representative,,2016-10-16,Active,1.0,29.89,
+EMP0077,CL004,Olivia Rivera,Veterinarian,General Practice,2016-09-05,Active,0.8,,170000
+EMP0078,CL004,Audrey Green,Veterinarian,General Practice,2018-11-25,Active,1.0,,135000
+EMP0079,CL004,Liam Thomas,Veterinary Technician,,2019-09-26,Active,1.0,23.25,
+EMP0080,CL004,Liam Taylor,Veterinarian,General Practice,2022-05-17,Active,1.0,,105000
+EMP0081,CL004,Ashley Smith,Veterinary Technician,,2023-06-28,Active,0.8,23.58,
+EMP0082,CL004,Megan Lee,Veterinarian,Emergency,2017-11-27,Active,1.0,,162500
+EMP0083,CL004,Emily Baker,Veterinary Assistant,,2020-05-16,Active,1.0,33.43,
+EMP0084,CL004,Ashley Williams,Veterinarian,Emergency,2023-10-04,Active,0.8,,137500
+EMP0085,CL004,James Nelson,Veterinarian,General Practice,2020-11-13,Active,1.0,,100000
+EMP0086,CL004,Olivia Mitchell,Veterinary Assistant,,2014-06-12,Active,1.0,30.15,
+EMP0087,CL004,Sarah Nguyen,Veterinary Technician,,2018-12-15,Active,1.0,22.63,
+EMP0088,CL004,Harper Williams,Veterinarian,Emergency,2018-05-24,Active,0.8,,130000
+EMP0089,CL004,Mason Adams,Veterinarian,Dermatology,2017-08-09,Active,1.0,,185000
+EMP0090,CL004,Camila Harris,Veterinary Technician,,2021-11-12,Active,1.0,27.23,
+EMP0091,CL004,Sofia Perez,Veterinarian,Emergency,2014-08-01,Active,1.0,,100000
+EMP0092,CL004,Sarah White,Veterinarian,Internal Medicine,2017-01-01,Active,1.0,,137500
+EMP0093,CL004,Lauren Vilaihong,Veterinary Technician,,2017-06-15,Active,0.6,28.23,
+EMP0094,CL004,Michael Nguyen,Practice Manager,,2014-11-03,Active,0.8,25.1,60000
+EMP0095,CL004,Evelyn King,Veterinary Assistant,,2019-02-12,Active,1.0,23.39,
+EMP0096,CL004,Michael Lee,Veterinary Assistant,,2014-12-24,Active,1.0,30.15,
+EMP0097,CL004,Sofia Baker,Veterinarian,General Practice,2015-01-11,Active,1.0,,145000
+EMP0098,CL004,Ashley Baker,Client Service Representative,,2021-01-24,Active,1.0,23.94,
+EMP0099,CL004,Charlotte Harris,Veterinarian,Dermatology,2015-11-23,Active,1.0,,185000
+EMP0100,CL004,Nick Taylor,Veterinary Technician,,2021-09-26,Active,0.8,28.43,
+EMP0101,CL004,Benjamin Taylor,Veterinary Assistant,,2015-12-16,Active,0.6,32.09,
+EMP0102,CL004,Jack Young,Veterinary Technician,,2019-10-17,Active,0.8,30.6,
+EMP0103,CL004,Ethan Baker,Practice Manager,,2021-08-17,Active,0.6,22.21,82500
+EMP0104,CL004,Amanda Martin,Veterinarian,General Practice,2018-07-12,Active,1.0,,112500
+EMP0105,CL004,Isabella Robinson,Veterinary Technician,,2023-05-15,Active,1.0,32.67,
+EMP0106,CL005,Charlotte Thomas,Practice Manager,,2018-11-30,Active,1.0,27.4,92500
+EMP0107,CL005,Liam Brown,Veterinarian,General Practice,2018-02-06,Active,1.0,,100000
+EMP0108,CL005,Jackson Johnson,Client Service Representative,,2015-05-02,Active,0.6,24.33,
+EMP0109,CL005,Olivia Lee,Veterinarian,General Practice,2021-04-12,Active,1.0,,177500
+EMP0110,CL005,Charlotte Wilson,Veterinary Technician,,2016-07-28,Active,1.0,28.92,
+EMP0111,CL005,Ashley Gonzalez,Veterinarian,General Practice,2014-08-11,Active,1.0,,157500
+EMP0112,CL005,Jackson Williams,Veterinary Technician,,2017-05-11,Active,0.6,33.9,
+EMP0113,CL005,Harper Campbell,Veterinarian,Surgery,2016-11-22,Active,1.0,,100000
+EMP0114,CL005,Lauren Moore,Veterinary Technician,,2021-12-19,Active,1.0,33.45,
+EMP0115,CL005,Chloe Williams,Veterinarian,Emergency,2019-01-19,Active,0.8,,147500
+EMP0116,CL005,Benjamin Clark,Veterinary Assistant,,2017-02-09,Active,1.0,32.3,
+EMP0117,CL005,Luna Green,Veterinarian,Surgery,2015-11-29,Active,1.0,,145000
+EMP0118,CL005,Luna Walker,Veterinarian,General Practice,2014-03-03,Active,0.8,,107500
+EMP0119,CL005,Amelia Rivera,Veterinarian,Dermatology,2019-01-27,Active,1.0,,157500
+EMP0120,CL005,Sofia Harris,Veterinary Technician,,2017-08-23,Active,0.8,23.53,
+EMP0121,CL005,Mia Gonzalez,Veterinary Assistant,,2021-08-08,Active,0.8,20.68,
+EMP0122,CL005,Mateo Robinson,Veterinarian,General Practice,2015-01-04,Active,0.8,,185000
+EMP0123,CL005,Sarah Clark,Veterinarian,Emergency,2018-11-02,Active,1.0,,162500
+EMP0124,CL005,Emma Smith,Veterinarian,General Practice,2015-08-20,Active,1.0,,142500
+EMP0125,CL005,Jackson Clark,Veterinary Technician,,2018-12-04,Active,1.0,18.95,
+EMP0126,CL005,Benjamin Green,Veterinarian,General Practice,2015-01-23,Active,1.0,,172500
+EMP0127,CL005,Isabella Rivera,Veterinary Technician,,2016-03-08,Active,0.8,28.77,
+EMP0128,CL005,Sofia King,Veterinary Technician,,2016-04-11,Active,0.6,28.54,
+EMP0129,CL005,Megan Hernandez,Veterinary Assistant,,2015-03-28,Active,0.8,19.44,
+EMP0130,CL005,Isabella Torres,Veterinarian,Surgery,2020-03-08,Active,0.8,,182500
+EMP0131,CL006,Ryan Carter,Veterinarian,Internal Medicine,2021-05-16,Active,1.0,,177500
+EMP0132,CL006,Lucas White,Veterinarian,Dermatology,2015-05-28,Active,1.0,,172500
+EMP0133,CL006,Sarah Brown,Veterinarian,Dermatology,2019-11-11,Active,1.0,,112500
+EMP0134,CL006,Robert Lee,Veterinarian,Surgery,2022-04-14,Active,1.0,,162500
+EMP0135,CL006,Amanda Jones,Veterinarian,Internal Medicine,2021-07-25,Active,0.8,,145000
+EMP0136,CL006,Henry Flores,Veterinary Technician,,2023-08-23,Active,1.0,20.26,
+EMP0137,CL006,Ashley Martin,Client Service Representative,,2018-08-06,Active,0.8,26.87,
+EMP0138,CL006,Rachel Moore,Kennel Assistant,,2023-10-20,Active,1.0,25.31,
+EMP0139,CL006,Amelia Smith,Veterinary Technician,,2017-05-06,Active,0.8,25.87,
+EMP0140,CL006,Ella Jackson,Veterinarian,General Practice,2020-05-23,Active,1.0,,95000
+EMP0141,CL006,Jack Brown,Practice Manager,,2021-04-05,Active,0.8,31.12,62500
+EMP0142,CL006,Mateo Robinson,Veterinary Technician,,2021-11-10,Active,1.0,21.53,
+EMP0143,CL006,Jessica Moore,Veterinary Technician,,2016-05-23,Active,0.6,30.43,
+EMP0144,CL006,Michael Hall,Veterinarian,General Practice,2014-11-19,Active,0.8,,100000
+EMP0145,CL006,Michael White,Veterinary Technician,,2019-12-30,Active,1.0,31.48,
+EMP0146,CL006,Charlotte Carter,Veterinarian,General Practice,2020-02-09,Active,0.8,,107500
+EMP0147,CL006,Olivia Roberts,Veterinary Technician,,2017-11-20,Active,1.0,32.0,
+EMP0148,CL006,Olivia Smith,Client Service Representative,,2022-12-23,Active,1.0,20.55,
+EMP0149,CL006,Jack Roberts,Veterinarian,General Practice,2020-01-25,Active,0.8,,180000
+EMP0150,CL006,Jason Garcia,Veterinarian,Internal Medicine,2016-08-02,Active,1.0,,120000
+EMP0151,CL007,Daniel Torres,Veterinary Technician,,2022-04-12,Active,0.6,31.79,
+EMP0152,CL007,Jason Roberts,Veterinary Technician,,2016-07-22,Active,0.8,31.97,
+EMP0153,CL007,Sarah Wright,Veterinary Technician,,2023-03-17,Active,0.8,33.89,
+EMP0154,CL007,Ella Johnson,Veterinary Technician,,2023-07-02,Active,1.0,29.42,
+EMP0155,CL007,Sarah Vilaihong,Veterinary Assistant,,2014-09-12,Active,1.0,32.33,
+EMP0156,CL007,Audrey Jones,Practice Manager,,2020-10-16,Active,1.0,32.22,87500
+EMP0157,CL007,Charlotte Sanchez,Veterinarian,Surgery,2021-03-27,Active,1.0,,125000
+EMP0158,CL007,Audrey Nguyen,Client Service Representative,,2023-04-07,Active,0.6,27.52,
+EMP0159,CL007,Robert Taylor,Veterinary Technician,,2019-12-29,Active,1.0,29.98,
+EMP0160,CL007,Noah Young,Veterinarian,Emergency,2023-07-30,Active,0.8,,175000
+EMP0161,CL007,Evelyn Nguyen,Veterinary Technician,,2020-11-15,Active,0.6,18.08,
+EMP0162,CL007,Sophia Lewis,Veterinarian,Dermatology,2016-02-25,Active,1.0,,142500
+EMP0163,CL007,Harper Scott,Veterinarian,Surgery,2018-04-25,Active,1.0,,135000
+EMP0164,CL007,Ethan Brown,Veterinarian,Dermatology,2017-08-20,Active,1.0,,117500
+EMP0165,CL007,Mason Harris,Veterinarian,General Practice,2017-07-07,Active,1.0,,170000
+EMP0166,CL007,Kevin Lewis,Client Service Representative,,2020-07-12,Active,1.0,21.98,
+EMP0167,CL007,Olivia Martinez,Veterinary Assistant,,2017-11-12,Active,0.6,27.84,
+EMP0168,CL007,Elijah Martinez,Veterinary Technician,,2023-10-16,Active,0.8,30.82,
+EMP0169,CL007,Jessica Hall,Practice Manager,,2022-06-25,Active,1.0,26.1,60000
+EMP0170,CL007,Mason Davis,Veterinarian,Surgery,2021-09-28,Active,1.0,,112500
+EMP0171,CL007,Luna Johnson,Veterinary Technician,,2022-03-18,Active,0.6,25.68,
+EMP0172,CL007,Olivia Rivera,Veterinary Technician,,2022-09-14,Active,1.0,25.21,
+EMP0173,CL007,Grace Thompson,Veterinary Assistant,,2018-10-21,Active,1.0,22.39,
+EMP0174,CL007,Ava Mitchell,Veterinarian,Internal Medicine,2016-01-05,Active,1.0,,97500
+EMP0175,CL008,Evelyn Flores,Veterinarian,Emergency,2017-12-23,Active,1.0,,125000
+EMP0176,CL008,Amelia Torres,Client Service Representative,,2017-12-03,Active,0.6,18.78,
+EMP0177,CL008,Henry Rodriguez,Client Service Representative,,2016-04-26,Active,1.0,19.26,
+EMP0178,CL008,David Davis,Practice Manager,,2023-08-25,Active,1.0,33.95,82500
+EMP0179,CL008,Ryan Wilson,Veterinary Assistant,,2015-06-05,Active,1.0,28.11,
+EMP0180,CL008,Liam Nguyen,Kennel Assistant,,2020-05-28,Active,1.0,24.34,
+EMP0181,CL008,Noah Hall,Veterinarian,Internal Medicine,2016-02-04,Active,1.0,,165000
+EMP0182,CL008,Robert Jones,Veterinarian,Emergency,2023-01-20,Active,1.0,,107500
+EMP0183,CL008,Amanda Perez,Veterinary Assistant,,2014-06-19,Active,1.0,18.2,
+EMP0184,CL008,Jack Mitchell,Veterinary Assistant,,2019-11-25,Active,1.0,22.9,
+EMP0185,CL008,Camila King,Kennel Assistant,,2017-03-04,Active,0.8,26.53,
+EMP0186,CL008,James Baker,Veterinarian,Emergency,2016-11-24,Active,1.0,,180000
+EMP0187,CL008,Noah Gonzalez,Kennel Assistant,,2014-12-20,Active,1.0,27.99,
+EMP0188,CL008,Michael Campbell,Veterinary Technician,,2014-01-10,Active,1.0,24.83,
+EMP0189,CL008,Henry Garcia,Veterinary Technician,,2014-02-24,Active,1.0,30.81,
+EMP0190,CL008,Jack Wright,Veterinarian,General Practice,2014-11-28,Active,1.0,,155000
+EMP0191,CL008,Luna Garcia,Veterinarian,Surgery,2023-09-26,Active,1.0,,150000
+EMP0192,CL008,Sarah Davis,Kennel Assistant,,2019-07-26,Active,0.8,25.16,
+EMP0193,CL008,Kevin Vilaihong,Veterinarian,General Practice,2022-03-04,Active,0.8,,125000
+EMP0194,CL008,Sarah Flores,Veterinarian,General Practice,2014-07-09,Active,1.0,,170000
+EMP0195,CL008,Olivia Wright,Veterinarian,Dermatology,2015-11-16,Active,1.0,,155000
+EMP0196,CL008,Henry Sanchez,Client Service Representative,,2020-12-29,Active,0.8,22.11,
+EMP0197,CL008,Chloe Thomas,Practice Manager,,2016-06-23,Active,1.0,24.69,87500
+EMP0198,CL009,Luna Green,Veterinarian,General Practice,2015-07-01,Active,1.0,,115000
+EMP0199,CL009,Robert Martin,Veterinary Assistant,,2018-01-02,Active,1.0,30.72,
+EMP0200,CL009,Emma Smith,Kennel Assistant,,2018-01-10,Active,1.0,30.61,
+EMP0201,CL009,Emily Martinez,Veterinarian,General Practice,2018-03-10,Active,1.0,,137500
+EMP0202,CL009,Charlotte Rivera,Veterinary Technician,,2023-06-30,Active,0.6,21.17,
+EMP0203,CL009,Lucas Walker,Veterinarian,General Practice,2016-05-20,Active,0.8,,185000
+EMP0204,CL009,Mason Robinson,Veterinary Technician,,2016-05-05,Active,0.6,31.18,
+EMP0205,CL009,Jason Taylor,Veterinarian,General Practice,2017-03-18,Active,1.0,,175000
+EMP0206,CL009,Megan Roberts,Veterinarian,Surgery,2019-10-19,Active,1.0,,167500
+EMP0207,CL009,Audrey Robinson,Veterinarian,General Practice,2015-10-28,Active,1.0,,117500
+EMP0208,CL009,Grace Garcia,Veterinarian,Dermatology,2016-02-10,Active,0.8,,152500
+EMP0209,CL009,Sofia Flores,Veterinarian,Surgery,2017-01-20,Active,1.0,,122500
+EMP0210,CL009,Sophia Rodriguez,Veterinarian,Internal Medicine,2021-04-20,Active,1.0,,110000
+EMP0211,CL009,Chloe Robinson,Practice Manager,,2018-07-01,Active,1.0,22.62,87500
+EMP0212,CL009,James Jackson,Veterinary Technician,,2019-08-02,Active,1.0,30.01,
+EMP0213,CL009,Camila Thomas,Veterinary Assistant,,2020-11-10,Active,1.0,29.06,
+EMP0214,CL009,Audrey Mitchell,Veterinarian,General Practice,2014-04-25,Active,1.0,,105000
+EMP0215,CL009,Amanda Young,Veterinarian,Emergency,2020-02-27,Active,0.8,,140000
+EMP0216,CL009,Mateo Thompson,Client Service Representative,,2018-08-30,Active,0.6,33.77,
+EMP0217,CL009,Liam Rivera,Client Service Representative,,2015-11-18,Active,1.0,29.05,
+EMP0218,CL009,Harper Robinson,Veterinarian,Internal Medicine,2016-01-13,Active,0.8,,170000
+EMP0219,CL009,Megan Martin,Practice Manager,,2018-06-09,Active,0.6,29.73,67500
+EMP0220,CL009,Daniel Carter,Veterinary Technician,,2018-06-27,Active,0.6,20.66,
+EMP0221,CL009,Sophia Moore,Veterinary Technician,,2016-12-26,Active,1.0,27.56,
+EMP0222,CL010,Jessica Jackson,Veterinary Assistant,,2022-09-30,Active,0.6,22.1,
+EMP0223,CL010,Nick Adams,Veterinarian,Dermatology,2015-08-20,Active,1.0,,107500
+EMP0224,CL010,Emma Wilson,Veterinary Assistant,,2023-09-11,Active,0.6,23.81,
+EMP0225,CL010,Evelyn Nguyen,Veterinary Assistant,,2019-09-08,Active,0.8,28.48,
+EMP0226,CL010,Luna Roberts,Veterinarian,Internal Medicine,2014-08-16,Active,1.0,,117500
+EMP0227,CL010,Ava Garcia,Veterinarian,Surgery,2018-11-17,Active,1.0,,140000
+EMP0228,CL010,Robert Harris,Veterinary Assistant,,2022-09-01,Leave,1.0,31.84,
+EMP0229,CL010,Emily Hernandez,Veterinarian,Dermatology,2014-01-24,Active,1.0,,120000
+EMP0230,CL010,Harper Young,Veterinarian,General Practice,2014-08-28,Active,0.8,,105000
+EMP0231,CL010,Isabella Green,Veterinary Technician,,2023-03-05,Active,1.0,23.24,
+EMP0232,CL010,Logan Davis,Practice Manager,,2019-07-27,Active,1.0,26.29,92500
+EMP0233,CL010,Michael Martin,Veterinary Technician,,2016-06-14,Active,1.0,23.71,
+EMP0234,CL010,Kevin Walker,Client Service Representative,,2022-09-24,Active,1.0,27.71,
+EMP0235,CL010,Grace King,Veterinarian,General Practice,2022-03-03,Active,1.0,,95000
+EMP0236,CL010,Megan Johnson,Veterinarian,Dermatology,2014-05-18,Active,1.0,,150000
+EMP0237,CL010,Luna Vilaihong,Veterinary Technician,,2014-07-07,Active,1.0,25.76,
+EMP0238,CL010,Kevin Jones,Veterinarian,Internal Medicine,2023-11-12,Active,1.0,,130000
+EMP0239,CL010,Mateo Sanchez,Veterinary Assistant,,2019-04-27,Active,1.0,23.11,
+EMP0240,CL010,Henry Sanchez,Veterinary Technician,,2019-07-04,Active,1.0,28.36,
+EMP0241,CL010,Evelyn Roberts,Veterinary Technician,,2019-08-19,Active,0.6,18.24,
+EMP0242,CL010,Michael Lee,Practice Manager,,2016-09-13,Active,0.8,25.01,65000
+EMP0243,CL010,Elijah Sanchez,Veterinary Technician,,2019-03-14,Active,1.0,22.01,
+EMP0244,CL010,Harper Hall,Client Service Representative,,2021-05-17,Active,1.0,18.54,
+EMP0245,CL010,Harper Torres,Practice Manager,,2018-05-17,Active,1.0,27.82,95000
+EMP0246,CL011,Amelia Lopez,Veterinary Technician,,2019-09-13,Active,0.8,19.34,
+EMP0247,CL011,Jessica Smith,Veterinarian,Surgery,2017-11-24,Active,1.0,,172500
+EMP0248,CL011,Sophia Sanchez,Client Service Representative,,2019-07-20,Active,1.0,32.54,
+EMP0249,CL011,Sofia Ramirez,Practice Manager,,2016-12-31,Active,0.6,25.21,60000
+EMP0250,CL011,Sofia Young,Veterinarian,Dermatology,2020-07-09,Active,1.0,,180000
+EMP0251,CL011,James Moore,Veterinarian,Surgery,2022-05-02,Active,0.8,,152500
+EMP0252,CL011,James Anderson,Veterinary Technician,,2020-01-17,Active,1.0,22.87,
+EMP0253,CL011,Sarah Wilson,Client Service Representative,,2014-07-21,Active,0.8,32.23,
+EMP0254,CL011,James Walker,Veterinarian,Surgery,2016-08-16,Active,1.0,,160000
+EMP0255,CL011,Mason Johnson,Veterinarian,Surgery,2018-06-01,Active,1.0,,107500
+EMP0256,CL011,Isabella Martinez,Veterinarian,General Practice,2019-04-02,Active,0.8,,137500
+EMP0257,CL011,Grace Martinez,Veterinarian,General Practice,2018-10-05,Active,1.0,,170000
+EMP0258,CL011,Mia Taylor,Veterinary Assistant,,2019-01-10,Active,0.6,29.16,
+EMP0259,CL011,Lucas Green,Practice Manager,,2022-10-28,Active,1.0,29.09,70000
+EMP0260,CL011,Megan Torres,Veterinarian,Surgery,2014-06-25,Active,0.8,,165000
+EMP0261,CL011,Harper Garcia,Client Service Representative,,2020-09-02,Active,1.0,33.37,
+EMP0262,CL011,Daniel Brown,Veterinarian,Internal Medicine,2019-03-29,Active,1.0,,135000
+EMP0263,CL011,Lucas Davis,Veterinarian,General Practice,2023-11-15,Active,1.0,,122500
+EMP0264,CL011,Harper Jones,Veterinarian,Dermatology,2017-01-03,Active,1.0,,100000
+EMP0265,CL011,Lucas Campbell,Veterinary Assistant,,2015-11-08,Active,0.6,20.91,
+EMP0266,CL011,Charlotte Sanchez,Veterinarian,Internal Medicine,2019-05-14,Active,1.0,,177500
+EMP0267,CL012,Sophia Hernandez,Client Service Representative,,2017-02-20,Active,0.6,30.33,
+EMP0268,CL012,Logan Baker,Veterinary Technician,,2015-12-12,Active,1.0,27.72,
+EMP0269,CL012,Sofia Harris,Practice Manager,,2023-08-05,Active,1.0,21.65,72500
+EMP0270,CL012,Mason Flores,Client Service Representative,,2018-08-02,Active,0.8,22.64,
+EMP0271,CL012,Emily Torres,Veterinary Technician,,2023-06-10,Active,1.0,18.18,
+EMP0272,CL012,Luna Nelson,Practice Manager,,2015-09-29,Active,0.8,22.47,70000
+EMP0273,CL012,Noah Mitchell,Veterinary Technician,,2021-06-12,Active,1.0,19.83,
+EMP0274,CL012,Liam Rodriguez,Veterinarian,Surgery,2014-10-14,Active,0.8,,110000
+EMP0275,CL012,Noah Campbell,Veterinary Technician,,2023-10-22,Active,0.8,26.55,
+EMP0276,CL012,Charlotte Nelson,Veterinary Technician,,2017-01-03,Active,0.6,27.62,
+EMP0277,CL012,Ryan Adams,Veterinarian,Dermatology,2018-05-23,Active,0.8,,157500
+EMP0278,CL012,Megan Ramirez,Veterinarian,Emergency,2014-12-05,Active,1.0,,137500
+EMP0279,CL012,Lucas Moore,Client Service Representative,,2015-01-11,Active,0.8,23.14,
+EMP0280,CL012,Ryan Scott,Veterinary Technician,,2022-04-01,Active,1.0,33.79,
+EMP0281,CL012,Ella Jackson,Veterinarian,General Practice,2020-10-28,Active,1.0,,167500
+EMP0282,CL012,Ryan Smith,Veterinary Assistant,,2014-05-21,Active,1.0,20.71,
+EMP0283,CL012,Sarah Taylor,Veterinarian,Internal Medicine,2019-03-20,Active,1.0,,145000
+EMP0284,CL012,Amelia Hall,Client Service Representative,,2021-05-31,Active,1.0,22.25,
+EMP0285,CL012,Camila Baker,Veterinarian,General Practice,2016-12-04,Active,1.0,,120000
+EMP0286,CL012,Sophia Adams,Veterinarian,Dermatology,2014-08-05,Active,1.0,,107500
+EMP0287,CL012,Henry Sanchez,Veterinary Assistant,,2022-03-09,Active,1.0,25.22,
+EMP0288,CL012,Nick Perez,Veterinary Technician,,2014-09-21,Active,0.6,27.92,
+EMP0289,CL012,James Walker,Veterinarian,Internal Medicine,2015-04-04,Active,1.0,,142500
+EMP0290,CL012,Elijah Brown,Client Service Representative,,2022-07-13,Active,1.0,29.48,
+EMP0291,CL012,Jason Young,Veterinarian,General Practice,2020-07-29,Active,1.0,,170000
+EMP0292,CL012,Charlotte Campbell,Veterinary Assistant,,2021-10-14,Active,0.8,23.78,
+EMP0293,CL012,Michael Adams,Veterinarian,General Practice,2019-02-07,Active,1.0,,132500
+EMP0294,CL012,Benjamin Scott,Client Service Representative,,2023-08-19,Active,0.8,18.22,
+EMP0295,CL012,Camila Scott,Client Service Representative,,2015-05-22,Active,1.0,19.64,
+EMP0296,CL012,James Miller,Veterinary Technician,,2015-01-11,Active,1.0,19.73,
+EMP0297,CL012,Camila Taylor,Veterinary Technician,,2020-10-24,Active,0.6,22.27,
+EMP0298,CL012,Luna Jones,Veterinarian,Dermatology,2016-01-08,Active,1.0,,100000
+EMP0299,CL012,Megan Flores,Veterinary Technician,,2023-10-08,Active,1.0,31.42,
+EMP0300,CL012,Ashley Clark,Veterinarian,General Practice,2022-05-15,Active,1.0,,140000

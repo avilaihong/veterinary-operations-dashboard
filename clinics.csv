@@ -1,0 +1,13 @@
+ClinicID,ClinicName,City,State,Region,ClinicType,OpenDate,SquareFeet,ExamRooms,AnnualCapacity,ManagerName
+CL001,Gainesville Veterinary Center,Gainesville,FL,North Central,Specialty & Emergency,2011-11-16,15500,8,11204,Elijah Lopez
+CL002,Ocala Animal Hospital,Ocala,FL,North Central,General Practice,2003-04-09,17500,12,11743,Ashley Lee
+CL003,Jacksonville Pet Specialty,Jacksonville,FL,Northeast,General Practice,2021-12-12,15500,9,7064,Sophia Clark
+CL004,Tampa Bay Veterinary Care,Tampa,FL,West Central,Specialty & Emergency,2017-01-17,9000,13,12406,Sofia Thomas
+CL005,Orlando Companion Animal Center,Orlando,FL,Central,Specialty & Emergency,2012-10-19,18000,13,10604,Mason Flores
+CL006,Sarasota Veterinary Clinic,Sarasota,FL,Southwest,General Practice,2013-01-02,18000,7,14103,James Vilaihong
+CL007,Fort Myers Animal Medical Center,Fort Myers,FL,Southwest,Specialty & Emergency,2003-05-21,13000,13,12433,Ava Rivera
+CL008,Boca Raton Pet Hospital,Boca Raton,FL,Southeast,Specialty & Emergency,2010-05-20,17500,9,11653,Michael Johnson
+CL009,Miami Veterinary & Emergency,Miami,FL,Southeast,General Practice,2015-06-28,5500,11,9167,Liam Hernandez
+CL010,Tallahassee Animal Health,Tallahassee,FL,Panhandle,Specialty & Emergency,2013-10-04,5500,13,10446,Robert Nguyen
+CL011,Pensacola Veterinary Center,Pensacola,FL,Panhandle,General Practice,2013-10-20,12000,9,11775,Elijah Thompson
+CL012,St. Petersburg Pet Care,St. Petersburg,FL,West Central,General Practice,1999-12-06,12500,12,10887,Mia Flores
