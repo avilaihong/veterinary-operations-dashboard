@@ -1,0 +1,41 @@
+ServiceID,ServiceName,ServiceCategory,StandardPrice,StandardMinutes
+SV001,Wellness Exam,Preventive,75,30
+SV002,Sick Visit Exam,Medical,95,30
+SV003,Emergency Exam,Emergency,165,45
+SV004,Annual Canine Vaccines,Preventive,115,20
+SV005,Annual Feline Vaccines,Preventive,105,20
+SV006,Rabies Vaccine,Preventive,35,10
+SV007,Heartworm Test,Diagnostics,48,15
+SV008,Fecal Test,Diagnostics,42,10
+SV009,CBC/Chemistry Panel,Diagnostics,185,25
+SV010,Urinalysis,Diagnostics,65,20
+SV011,X-Ray - 2 View,Imaging,220,35
+SV012,Ultrasound,Imaging,425,60
+SV013,Dental Cleaning,Dental,525,120
+SV014,Dental Extraction - Simple,Dental,165,30
+SV015,Dental Extraction - Surgical,Dental,325,50
+SV016,Spay - Canine,Surgery,475,150
+SV017,Neuter - Canine,Surgery,395,120
+SV018,Spay - Feline,Surgery,295,100
+SV019,Neuter - Feline,Surgery,225,80
+SV020,Mass Removal,Surgery,725,150
+SV021,Laceration Repair,Emergency,450,90
+SV022,IV Fluids,Treatment,145,60
+SV023,Hospitalization - Daily,Hospitalization,385,1440
+SV024,Microchip,Preventive,55,15
+SV025,Nail Trim,Grooming,24,15
+SV026,Ear Cytology,Diagnostics,58,15
+SV027,Skin Cytology,Diagnostics,62,15
+SV028,Allergy Injection,Treatment,95,15
+SV029,Medication Administration,Treatment,38,10
+SV030,Euthanasia,End of Life,185,45
+SV031,Cremation - Private,End of Life,295,15
+SV032,Cremation - Communal,End of Life,125,15
+SV033,Physical Rehabilitation,Rehabilitation,110,45
+SV034,Laser Therapy,Rehabilitation,65,20
+SV035,Nutrition Consultation,Consultation,95,45
+SV036,Behavior Consultation,Consultation,175,60
+SV037,Ophthalmology Consultation,Specialty,240,60
+SV038,Dermatology Consultation,Specialty,235,60
+SV039,Cardiology Consultation,Specialty,275,75
+SV040,Neurology Consultation,Specialty,290,75
